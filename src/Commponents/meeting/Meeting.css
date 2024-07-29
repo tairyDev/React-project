@@ -1,0 +1,19 @@
+.orange{
+  color: orange ;
+    /* background-color:; */
+  }
+  .red{
+   color:red ;
+  }
+  .green{
+   color: green;
+  }
+  .listMeetimg{
+   /* justify-content:center; */
+   /* flex-direction: row; */
+   /* align-content:center; */
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   padding-top: 25px;
+  }
